@@ -251,7 +251,7 @@ Please adhere to this project's [Code of Conduct](https://github.com/clubgamma/c
 - **If a maintainer reports your pull request as spam, it will not be counted towards your participation in Hacktoberfest.**
 
   
-## Contact us
+## Contact us:
 
 **To know more about us, visit [official website](https://clubgamma.github.io/) of Club Gamma.**
 
