@@ -274,4 +274,4 @@ Please adhere to this project's [Code of Conduct](https://github.com/clubgamma/c
 
 </div>
 
-  
+  Thanks
